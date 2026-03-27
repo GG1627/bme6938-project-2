@@ -3,7 +3,7 @@
 > Deep learning pipeline for automated blood cell classification using the BloodMNIST dataset. Compares a custom CNN trained from scratch against fine-tuned ResNet50 and EfficientNet-B0 models.
 
 **GitHub:** [bme6938-project-2](https://github.com/GG1627/bme6938-project-2)  
-**Course:** Medical AI (BME6938) — University of Florida
+**Course:** Medical AI (BME6938) - University of Florida
 
 ---
 
