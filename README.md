@@ -17,9 +17,9 @@ Accurate blood cell classification is critical in hematology for diagnosing cond
 
 | Model | Test Accuracy | Macro F1 | ROC-AUC |
 |-------|:---:|:---:|:---:|
-| Scratch CNN | 98.51% | 0.9853 | 0.9992 |
-| ResNet50 | 98.71% | 0.9883 | 0.9993 |
-| EfficientNet-B0 | 98.83% | 0.9894 | 0.9995 |
+| Scratch CNN | 97.25% | 0.9722 | 0.9990 |
+| ResNet50 | 99.15% | 0.9923 | 0.9995 |
+| EfficientNet-B0 | 98.51% | 0.9856 | 0.9993 |
 
 ---
 
@@ -37,6 +37,10 @@ bme6938-project-2/
 │   ├── train.ipynb           # full training pipeline
 │   └── demo.ipynb            # load trained model and run inference
 ├── models/                      # saved model weights (not tracked by git)
+├── htmls/                       # notebooks saved in html format
+├── eda.pdf
+├── train.pdf
+├── demo.pdf
 ├── requirements.txt
 └── README.md
 ```
