@@ -3,7 +3,7 @@ venv/
 # large model files
 *.pth
 # dataset
-data/
+*.npz
 # figures can be kept or excluded
 __pycache__/
 *.pyc
