@@ -1,0 +1,9 @@
+jpykernel
+torch
+torchvision
+medmnist
+matplotlib
+seaborn
+scikit-learn
+numpy
+grad-cam

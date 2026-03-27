@@ -1,0 +1,10 @@
+venv/
+.venv
+# large model files
+*.pth
+# dataset
+data/
+# figures can be kept or excluded
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
